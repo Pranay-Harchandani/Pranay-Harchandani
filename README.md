@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranay-Harchandani
-- 👀 I’m interested in Android Dev and Web Dev
-- 🌱 I’m currently learning Data structures and algorithms in java
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Data structures and algorithms in C++ and web development
 -📫 How to reach me pranayharchandani81@gmail.com
 
 <!---
