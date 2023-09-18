@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pranay-Harchandani
-- 👀 I’m interested in web development
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data structures and algorithms in C++ and web development
 -📫 How to reach me pranayharchandani81@gmail.com
 
